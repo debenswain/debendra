@@ -22,7 +22,8 @@ My work on the Kelvin–Voigt model uses local discontinuous Galerkin approximat
 
 ## Current directions
 
-I am exploring robust fully discrete DG methods for Boussinesq systems and the long-time behavior of DG approximations to fourth-order semilinear evolution problems. These directions involve adaptive time stepping, discrete energy estimates, and uniform decay with respect to the mesh parameter.
+## I am exploring robust fully discrete DG methods for Boussinesq systems and the long-time behavior of DG approximations to fourth-order semilinear evolution
+## problems. These directions involve adaptive time stepping, discrete energy estimates, and uniform decay with respect to the mesh parameter.
 
 ## Scientific computing
 
