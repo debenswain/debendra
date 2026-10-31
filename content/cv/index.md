@@ -26,7 +26,7 @@ Supervisor: Prof. Saumya Bajpai ·
 
 ## Scholarship & achievement
 
-**Joint CSIR–UGC NET in Mathematical Sciences** 
+**Joint CSIR–UGC NET in Mathematical Sciences** AIR 77
 
 ## Research & teaching
 
@@ -34,7 +34,7 @@ Supervisor: Prof. Saumya Bajpai ·
 
 ## Computing
 
-Python · FEniCS · C++ · FreeFem++ · MATLAB · ParaView · LaTeX  
+Python · FEniCS · C++ · FreeFem++ · MATLAB · ParaView · LaTeX · Python · Firedrake 
 Operating systems: Linux and Windows
 
 ## Languages
