@@ -41,12 +41,10 @@ education:
     of Equations. Supervisor: Prof. Saumya Bajpai.'
 - degree: M.Sc. in Mathematics
   institution: Pondicherry University
-  start: '2015'
-  end: '2017'
+  
 - degree: B.Sc. (Honours) in Mathematics
   institution: Bhadrak Autonomous College
-  start: '2012'
-  end: '2015'
+  
 experience:
 - role: Postdoctoral Fellow
   org: TIFR Centre for Applicable Mathematics
@@ -54,6 +52,5 @@ experience:
   summary: Working with Prof. Praveen Chandrashekar.
 - role: Research Associate
   org: BITS Goa
-  start: '2025-11-01'
-  end: '2026-05-31'
+  
   summary: Worked with Prof. Amiya Kumar Pani.
