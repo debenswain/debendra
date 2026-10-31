@@ -18,18 +18,15 @@ November 2025–May 2026 · With Prof. Amiya Kumar Pani
 
 **Ph.D.** · Indian Institute of Technology Goa · 2019–2025  
 Thesis: *Finite Element Galerkin Approximations to the Boussinesq System of Equations*  
-Supervisor: Prof. Saumya Bajpai · Coursework CGPA: 8.67/10
+Supervisor: Prof. Saumya Bajpai ·
 
-**M.Sc. in Mathematics** · Pondicherry University · 2015–2017  
-CGPA: 8.6/10
+**M.Sc. in Mathematics** · Pondicherry University 
 
-**B.Sc. (Honours) in Mathematics** · Bhadrak Autonomous College · 2012–2015  
-Overall: 73.66% · Mathematics: 81%
+**B.Sc. (Honours) in Mathematics** · Bhadrak Autonomous College 
 
 ## Scholarship & achievement
 
-**Joint CSIR–UGC NET in Mathematical Sciences** · June 2018  
-All India Rank: 77
+**Joint CSIR–UGC NET in Mathematical Sciences** 
 
 ## Research & teaching
 
