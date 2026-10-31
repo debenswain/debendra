@@ -1,0 +1,59 @@
+schema: hugoblox/author/v1
+slug: me
+is_owner: true
+name:
+  display: Debendra Kumar Swain
+  given: Debendra Kumar
+  family: Swain
+postnominals:
+- PhD
+role: Postdoctoral Fellow
+bio: 'I am a postdoctoral fellow at the TIFR Centre for Applicable Mathematics, working
+  with Prof. Praveen Chandrashekar. My research focuses on the numerical analysis
+  of partial differential equations, with particular interests in finite element and
+  discontinuous Galerkin methods.
+
+
+  I received my Ph.D. from IIT Goa in 2025 under the supervision of Prof. Saumya Bajpai.
+  Before joining TIFR CAM, I worked with Prof. Amiya Kumar Pani as a research associate
+  at BITS Goa.'
+affiliations:
+- name: TIFR Centre for Applicable Mathematics
+  url: https://www.math.tifrbng.res.in/
+links:
+- icon: at-symbol
+  url: mailto:debendra19232101@iitgoa.ac.in
+  label: Email
+- icon: brands/github
+  url: https://github.com/debenswain
+  label: GitHub
+interests:
+- Numerical analysis of PDEs
+- Finite element methods
+- Discontinuous Galerkin methods
+- Computational fluid dynamics
+education:
+- degree: Ph.D.
+  institution: Indian Institute of Technology Goa
+  start: '2019'
+  end: '2025'
+  summary: 'Thesis: Finite Element Galerkin Approximations to the Boussinesq System
+    of Equations. Supervisor: Prof. Saumya Bajpai.'
+- degree: M.Sc. in Mathematics
+  institution: Pondicherry University
+  start: '2015'
+  end: '2017'
+- degree: B.Sc. (Honours) in Mathematics
+  institution: Bhadrak Autonomous College
+  start: '2012'
+  end: '2015'
+experience:
+- role: Postdoctoral Fellow
+  org: TIFR Centre for Applicable Mathematics
+  start: '2026-06-01'
+  summary: Working with Prof. Praveen Chandrashekar.
+- role: Research Associate
+  org: BITS Goa
+  start: '2025-11-01'
+  end: '2026-05-31'
+  summary: Worked with Prof. Amiya Kumar Pani.
