@@ -20,7 +20,6 @@ I study discontinuous Galerkin and local discontinuous Galerkin formulations for
 
 My work on the Kelvin–Voigt model uses local discontinuous Galerkin approximations to study viscoelastic fluid flow, including semidiscrete and fully discrete error analysis.
 
-
 ## Scientific computing
 
 **Tools:** Python, FEniCS, FreeFem++, C++, MATLAB, ParaView, and LaTeX.
