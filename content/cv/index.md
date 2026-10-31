@@ -34,7 +34,7 @@ Supervisor: Prof. Saumya Bajpai ·
 
 ## Computing
 
-Python · FEniCS · C++ · FreeFem++ · MATLAB · ParaView · LaTeX · Python · Firedrake 
+Python · FEniCS · C++ · FreeFem++ · MATLAB · ParaView · LaTeX · Python · Firedrake              
 Operating systems: Linux and Windows
 
 ## Languages
