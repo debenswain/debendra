@@ -9,7 +9,7 @@ sections:
     text: ''
     button:
       text: Download CV
-      url: uploads/Debendra_Kumar_Swain_CV.pdf
+      
     headings:
       about: About me
       education: Education
@@ -76,7 +76,7 @@ sections:
     text: 'For research discussions and academic correspondence, please get in touch.
 
 
-      **Email:** [debendra19232101@iitgoa.ac.in](mailto:debendra19232101@iitgoa.ac.in)
+      **Email:** [debendra26@tifrbng.res.in](mailto:1729.et.al@gmail.com)
 
 
       **Affiliation:** TIFR Centre for Applicable Mathematics, Bengaluru, India
